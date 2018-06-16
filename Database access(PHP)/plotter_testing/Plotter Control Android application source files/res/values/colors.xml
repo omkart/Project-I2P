@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#73C1FF</color>
+    <color name="colorPrimaryDark">#4BB0FF</color>
+    <color name="colorPrimary2">#B9E0FF</color>
+    <color name="colorPrimaryDark2">#4BAFFF</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="azureColor">#f1f5f8</color>
+    <color name="azureColor2">#BAE1FC</color>
+    <color name="azureColor3">#29A3F8</color>
+    <color name="white">#FFFFFF</color>
+    <color name="fui_bgGoogle">#ffffff</color>
+    <color name="fui_buttonShadow">#64BEBEBE</color>
+    <color name="drawer_menu_text_color">#FFFFFF</color>
+    <color name="emergency_red">#FB0F00</color>
+    <color name="azureMediumBlue">#6ec1f8</color>
+    <color name="green">#a9ff2f</color>
+    <color name="blue2">#0000b2</color>
+    <color name="darkGrey">#343434</color>
+</resources>
